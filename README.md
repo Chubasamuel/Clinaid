@@ -7,8 +7,8 @@ An MIT NAUTH project. A clinical history clerking aid app/platform.
 
 
 ## Contributors
-> [Chuba Samuel, DCOR](https://linktr.ee/chubasamuel)
-> [Nwaeke Polycarp Ikechukwu](https://facebook.com/polycarp.nwaeke)
+* [Chuba Samuel, DCOR](https://linktr.ee/chubasamuel)
+* [Nwaeke Polycarp Ikechukwu](https://facebook.com/polycarp.nwaeke)
 
 
 
